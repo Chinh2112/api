@@ -1,0 +1,25 @@
+{
+  "sinhvien": [
+    {
+      "id": "TT77",
+      "tenSV": "Chinh",
+      "lop": "TT8",
+      "diachi": "Quang Ngai",
+      "HinhAnh": "mklink /D test E:\\FE2\\NguyenThuTua7"
+    },
+    {
+      "id": "TT67",
+      "tenSV": "Chinh",
+      "lop": "TT8",
+      "diachi": "Quang Ngai",
+      "HinhAnh": "mklink /D test E:\\FE2\\NguyenThuTua7"
+    },
+    {
+      "id": "124",
+      "tenSV": "ry",
+      "lop": "546",
+      "diachi": "888",
+      "HinhAnh": "mklink \\/D test E:\\\\FE2\\\\NguyenThuTua7"
+    }
+  ]
+}
